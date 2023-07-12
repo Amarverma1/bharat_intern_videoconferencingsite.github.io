@@ -1,0 +1,66 @@
+*{
+   margin: 0;
+   padding: 0;
+    background-image: url(Home.webp);
+}
+body {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Lobster Two', cursive;
+  }
+
+  div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid rgba(214, 169, 245, 0.6);
+    opacity: 0.6;
+    height: 20%;
+    text-align: center;
+
+  }
+
+  .btn:hover {
+    background-color: purple;
+    color: white;
+    border: 2px solid rgba(214, 169, 245, 0.8);
+  }
+
+  .btn {
+    color: #853eb5;
+    background-color: white;
+    font-size: 25px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+ .navbar navbar-dark{
+    background-color:shd;
+    box-shadow: 2px 4px rgba(226, 203, 242,0.5)"
+ }
+ .navbar-brand{
+    font-size: 40px; 
+    color:#9864bd
+ }
+ .container{
+    margin-top: 20%;
+    box-sizing: border-box;
+    border: solid;
+ }
+ .navbar {
+    width: 80px;
+    padding: 60px;
+    margin: 10px;
+ }
+ .nav-logo-text{
+    margin-left: -1rem;
+    font-size: 50px;
+    height: 0;
+    margin-right: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(153, 222, 49);
+
+ }
+ #start{
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+
+ }
